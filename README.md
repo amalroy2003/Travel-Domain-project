@@ -149,10 +149,6 @@ This project is licensed under the MIT License.
 Dataset sourced from EaseMyTrip. Project documentation based on insights from the `Travel Domain.docx` file.
 
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
 ## 🙌 Acknowledgements
 
 Dataset sourced from EaseMyTrip. Project documentation based on insights from the `Travel Domain.docx` file.
